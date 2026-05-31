@@ -1,2 +1,2 @@
-## This is a raw markdown file
+## This is a markdown file
 
